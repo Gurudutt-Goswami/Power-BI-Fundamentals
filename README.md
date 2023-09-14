@@ -31,3 +31,9 @@ It allows you to create different reports on Power BI dasktop. These reports can
 
 ### Power BI Architecture
 ![2  power bi architecture](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/b9747de3-3498-4fdc-9fec-3fbc07f4ba4a)
+
+
+### Power BI basics
+1) Report (Visuals area)
+2) Data (Table transform area)
+3) Model (Relationship area)
