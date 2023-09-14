@@ -16,14 +16,14 @@ Set of techniques & tools for the transformation of your raw data into meaningfu
 ![1  Features](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/44e54963-c25f-4993-ab10-ccb35a0f8415)
 
 ### Power BI Components
-
-#### Power Query is a data transformation & mashup engine.
-#### Power pivot is a data modelling & calculation engine. Uses DAX(Data Analysis Expression) queries to model data.
-#### Power visualisation is the visualisation component.
-#### Power Map is used to map geospatial data in 3D mode. Works with bing maps to get visuals based on longitude, lattitude, country, state, city etc.
-#### Power BI desktop is a Dev tool that contains (Power query + Power pivot + Power View)
-#### Power Q&A is a natural language engine for your questions & answers on top of your data model.
-
+```
+Power Query is a data transformation & mashup engine.
+Power pivot is a data modelling & calculation engine. Uses DAX(Data Analysis Expression) queries to model data.
+Power visualisation is the visualisation component.
+Power Map is used to map geospatial data in 3D mode. Works with bing maps to get visuals based on longitude, lattitude, country, state, city etc.
+Power BI desktop is a Dev tool that contains (Power query + Power pivot + Power View)
+Power Q&A is a natural language engine for your questions & answers on top of your data model.
+```
 #### Power BI 
 Power BI is Saas(Service Software as a service) part of Power BI. Also called power bi online.(app.powerbi.com).
 Here you can create dashboardS on canvas where we refer each visual areas as tiles. 
