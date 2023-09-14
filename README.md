@@ -37,3 +37,9 @@ It allows you to create different reports on Power BI dasktop. These reports can
 1) Report (Visuals area)
 2) Data (Table transform area)
 3) Model (Relationship area)
+
+### Power BI | Tableau
+1) Microsoft Product | Salesforce aquired tableau
+2) Supports NLP for Q&A for data insights | Tableau is also going to have this in near future
+3) Very easy to integrate with microsoft products like excel,csv,azure etc. but not very diverse compared to tableau when it comes to data source connection.
+4) Uses DAX Expression & M language for data manipulation & data modelling can also connect with R languages with Microsoft revolution analytics | Connects much better with R comparitively
