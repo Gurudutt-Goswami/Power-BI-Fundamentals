@@ -76,3 +76,18 @@ You can hide whether user can do this table visual for any chart by :
 --> File --> Options & Settings --> Options --> Report Seeting (In Current File) --> check 'dont allow user to download data'
 ![restrict user to not see tables](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/094abfc3-fb6c-4e13-9277-f84a61eecadc)
 
+### Map Chart
+![map chart](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/7298ae93-2678-4027-b587-588f0b73f158)
+
+#### Bubble with pie
+Just add your legend & followed by bubble size value column 
+![bubble with pie](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/90d304f2-def5-458d-91eb-4d81ac4b0dea)
+
+#### Filled Chart
+![filled chart](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/ced701be-0ac6-4629-bafe-605abef436ad)
+
+#### Formatting 
+1) You can individually format any bubble color
+2) You can change even  background color of state label & map chart
+3) You can even change tool option & values color separately & there are many other things as well when it comes to formatting.
+![formatting map](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/4e1618c3-1b07-480a-ad98-decb9a10dba5)
