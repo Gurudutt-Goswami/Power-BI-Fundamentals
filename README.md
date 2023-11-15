@@ -90,4 +90,5 @@ Just add your legend & followed by bubble size value column
 1) You can individually format any bubble color
 2) You can change even  background color of state label & map chart
 3) You can even change tool option & values color separately & there are many other things like themes as well when it comes to formatting in map.
+4) Note you can directly copy to clipboard & paste the data using 'enter data' icon.
 ![formatting map](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/4e1618c3-1b07-480a-ad98-decb9a10dba5)
