@@ -92,3 +92,12 @@ Just add your legend & followed by bubble size value column
 3) You can even change tool option & values color separately & there are many other things like themes as well when it comes to formatting in map.
 4) Note you can directly copy to clipboard & paste the data using 'enter data' icon.
 ![formatting map](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/4e1618c3-1b07-480a-ad98-decb9a10dba5)
+
+### Conditional formatting
+![table formatting](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/fe014bac-19f1-48b1-b2d0-1b821ec953fe)
+
+
+#### Change aggregation of a field in table 
+Note : If you want to see a single column in two or more aggregations then add that column multiple times & change aggregation in its multiple appearences.  
+```To set a common theme for the entire dashboard go to view --> customise current theme```
+![change aggregation of column](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/cc7a63dd-6566-4513-9391-67f61a7a440e)
