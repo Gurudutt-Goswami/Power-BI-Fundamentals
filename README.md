@@ -107,3 +107,9 @@ Note : If you want to see a single column in two or more aggregations then add t
 ### Matrix
 ![normal table vs matrix](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/b5933001-e7b3-48c6-8bba-fc8958641d8b)
 Note : In earlier versions you will conditional formatting options for tables but in current version conditional formatting comes as cell elements. This you can apply via adding bars, text colors , icons or web url.
+#### Matrix conditional formatting
+![matrix formatting](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/768b04d7-4cc3-41d2-9f4c-cf7134b0b2e7)
+#### Hierarchy in matrix
+To make hierarchy just drag & drop fields under rows one below the other & a plus symbol will appear to drill down the values. You can add as many fields as you want. Also lets say you added a date field in values section then in the visual while drill downing you have to first select rows/columns which you want to drill down.  
+Note : You can hide & format subtotal & Total of rows in the matrix .
+![hierarchy in matrix](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/63b0980c-e1d0-4006-8465-4054ad355e28)
