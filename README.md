@@ -101,3 +101,9 @@ Just add your legend & followed by bubble size value column
 Note : If you want to see a single column in two or more aggregations then add that column multiple times & change aggregation in its multiple appearences.  
 ```To set a common theme for the entire dashboard go to view --> customise current theme```
 ![change aggregation of column](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/cc7a63dd-6566-4513-9391-67f61a7a440e)
+
+
+
+### Matrix
+![normal table vs matrix](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/b5933001-e7b3-48c6-8bba-fc8958641d8b)
+Note : In earlier versions you will conditional formatting options for tables but in current version conditional formatting comes as cell elements. This you can apply via adding bars, text colors , icons or web url.
