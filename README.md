@@ -180,8 +180,8 @@ As the names suggests they do exactly according to their name, so you can add mu
 You can add a slicer & a column to it, in this way it will be available for end users to select certain choices to filter on. Also you can add multiple columns in a single slicer in order to create a hirarchy for example lets suppose we have a state column then we can add city column under it, so if we are showing some bar chart for top 5 sub category profits, user can select any city under any specific state to look for its details. Also instead of selecting only single value & pressing ctrl to select multiple values you can change this into formatting section & many other aesthetics things as well like their alignment,color, fonts etc.
 
 ![slicers](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/e4da3e40-8858-4b35-bcd1-7ec1fa38de68)
-![date slicer](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/4e6c1166-169f-42d9-8c09-612a3a4adf83)
 Relative Date Slicer  
+![date slicer](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/4e6c1166-169f-42d9-8c09-612a3a4adf83)
 ![relative date slicer](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/4c1df576-f8e2-48e5-8682-a075d1ef5e8e)
 Instead of a slider make k hirarchy  
 ![date slicer instead of slider](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/3388ee83-11f9-4543-85ff-07fc24dc38a6)
