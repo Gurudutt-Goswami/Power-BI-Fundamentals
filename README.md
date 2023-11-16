@@ -246,3 +246,30 @@ Note : To add bookmark you first need to create bookmark from View -> Bookmarks
 ![bookmark](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/f2c06212-cc91-4d24-9c5c-a42722043f55)  
 For drill through just select drill through in action of the blank button & select that page on which you want to go.
 ![drill through](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/fd4001f2-b543-4831-8a60-29e5d0a15a65)
+
+
+### Sample Report 
+![report](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/f2d0ba7b-2ff7-4382-8a7b-16c626a6869f)
+
+#### Power BI Service
+![power bi service](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/41132b8f-cb9c-4862-8e68-aa4cf3862094)
+
+#### Publish 
+From home menu click on publish & login once you have logged in you need to create a workspace to publish you workbooks/dashboard. After login you can select that workspace & publish the workbook, one pop up with the link will come up which you can share with other just like any other tool.
+
+#### pdf,ppt, pbix or web
+You can export the report into ppt/pdf/pbix directly from power bi service.
+Also if you have admin right you can embed this report into your custom web pages by embedding the link you get.
+![ppt pdf](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/32d36190-f475-4b8f-b9eb-5e5a017654f9)
+![web](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/81c78a25-98ec-47a5-815f-97d738cbb7a5)
+
+#### Comment, share & subscribe
+Comments : You can add a comment for the published report & to notify any people via comment just write @personname.com & that person will get notified via mail.
+![comments](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/2745b8d0-07d6-4a44-9112-6f6652795c56)
+
+Share : Once you have commented or shared the report to any person make sure that person has access & for that go to share then to access tab & make sure to give Editor/Owner/Readonly access to that user.
+![share](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/7e5990f4-3e17-4f02-9158-60f88bc22164)
+
+Subscribe : Lets suppose you have to send report to certain team members on friday 4 pm weekly then you can use subscribe & mention a sample mail along with time on which they should get notified. Here you also need to select which page out of your report they will get. Though you can have multiple subscriptions.
+![subscribe](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/91583177-bd8d-4120-987c-df783e9d4d01)
+
