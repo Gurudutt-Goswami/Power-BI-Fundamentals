@@ -160,4 +160,28 @@ Card number will change as per selection in other visuals
 To show highest profit,sales & quantity in card just add that field into the filter section, select top n > add that field > apply filter & change the text of the card.
 ![text card](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/fd90c61c-f438-4c9a-8bfd-d5ffc79c8f6d)
 
+#### Date card 
+Similar to text card we can add date field in filter on visual section & can view relevent results. But the good part is lets suppose we wanted to see something for a specific time period, lets say highest profit in last 2 years for that we can add date field in filter on visual section & then select relative dates options, here we get the option to set the range for which we are interested in.
 
+#### Mulit row multi column card
+Just like text & date card add field to the filter section & apply for top 3, this is a bot more fruitful then card as it shows multiple thing at once which can also be effected based on selection on other visuals.
+![multi row card](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/438593f1-bb36-49e2-b7c0-70338fdf3298)
+
+
+### Filter & Drillthrough
+1) Filter on this visual
+2) Filter on this page
+3) Filter on all pages
+As the names suggests they do exactly according to their name, so you can add multiple fields in any of those sections to use it.
+4) Drillthrough : Lets suppose you have 3 pages PMO, Manager & associates and you want to see only respective managers which has been selected in PMO & so for the associated then you need to add this designation field in the drill through section in manager & associates. After this when you select anything on PMO > righ click > drill though then you will see managers & associates pages & on click you will go onto that page which will only contain values selected in PMO tab & this will work similar for managers tab as well.
+
+
+### Slicers (Interactive filters)
+You can add a slicer & a column to it, in this way it will be available for end users to select certain choices to filter on. Also you can add multiple columns in a single slicer in order to create a hirarchy for example lets suppose we have a state column then we can add city column under it, so if we are showing some bar chart for top 5 sub category profits, user can select any city under any specific state to look for its details. Also instead of selecting only single value & pressing ctrl to select multiple values you can change this into formatting section & many other aesthetics things as well like their alignment,color, fonts etc.
+
+![slicers](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/e4da3e40-8858-4b35-bcd1-7ec1fa38de68)
+![date slicer](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/4e6c1166-169f-42d9-8c09-612a3a4adf83)
+Relative Date Slicer  
+![relative date slicer](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/4c1df576-f8e2-48e5-8682-a075d1ef5e8e)
+Instead of a slider make k hirarchy  
+![date slicer instead of slider](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/3388ee83-11f9-4543-85ff-07fc24dc38a6)
