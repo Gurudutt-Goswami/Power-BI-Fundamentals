@@ -148,3 +148,9 @@ hierarchical or descending showcase
 #### Gauge Chart 
 used to compare current value with target 
 ![guage chart](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/7798e177-84d3-4d1b-b2e2-98d1e75ca717)
+
+
+### Cards & Filters
+
+#### Number card
+ 
