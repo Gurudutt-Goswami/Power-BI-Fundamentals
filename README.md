@@ -272,4 +272,4 @@ Share : Once you have commented or shared the report to any person make sure tha
 
 Subscribe : Lets suppose you have to send report to certain team members on friday 4 pm weekly then you can use subscribe & mention a sample mail along with time on which they should get notified. Here you also need to select which page out of your report they will get. Though you can have multiple subscriptions.
 ![subscribe](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/91583177-bd8d-4120-987c-df783e9d4d01)
-
+![subscribe 2](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/c6e8cbb0-ad8e-496b-979c-a30e7189a26b)
