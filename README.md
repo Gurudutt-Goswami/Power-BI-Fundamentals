@@ -153,4 +153,11 @@ used to compare current value with target
 ### Cards & Filters
 
 #### Number card
- 
+Card number will change as per selection in other visuals  
+![number card](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/16039526-fbf6-4d42-bc18-b96c2e1c5148)
+
+#### Text card 
+To show highest profit,sales & quantity in card just add that field into the filter section, select top n > add that field > apply filter & change the text of the card.
+![text card](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/fd90c61c-f438-4c9a-8bfd-d5ffc79c8f6d)
+
+
