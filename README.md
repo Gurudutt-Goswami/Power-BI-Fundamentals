@@ -185,3 +185,64 @@ Relative Date Slicer
 ![relative date slicer](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/4c1df576-f8e2-48e5-8682-a075d1ef5e8e)  
 Instead of a slider make k hirarchy  
 ![date slicer instead of slider](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/3388ee83-11f9-4543-85ff-07fc24dc38a6)
+
+Note: For any fields after its addition to slicer you can their types as well.
+
+
+### Advanced Custom Charts
+To add third party visuals you can click on three dots available at the bottom of the visuals section & add your either university or organisation account to that. 
+After that you will see following screen, note that here in this app service you will see apps with blue ticks which means those are microsoft certified apps. You also can see ratings for all cutomised visuals.
+
+f![app source](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/0f7d9500-7f20-4bce-b125-03c34d24ea24)
+
+
+Note : When using custom visual apps it can hamper dashboard performance.
+
+![advance charts](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/59270b6f-67a0-4e54-8594-24095e31f141)
+
+#### Animated Bar Chart
+![animated bar chart](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/91113f1a-a008-4311-b2b8-a6794039e133)
+
+#### Drill Down Donut chart (zoomcharts)
+Note : This is from zoomcharts so formatting will not be free you need to buy full version.
+![drill down donut chart](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/00c1475e-f35e-4385-ac58-2ac21d31062b)
+
+#### Drill down column chart (zoomcahart)
+![drill down column chart](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/7f4dea10-0eb4-4462-96a2-d83321fc6b6e)
+
+#### Word Cloud
+![word cloud](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/8068cd05-fa21-4b0d-a092-7ae1a157295b)
+![word cloud 1](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/44735b94-68c5-4b5b-a5df-83e4c34dbb1c)
+
+#### Sankey Chart
+To show relationship between two categories this chart is used.
+The thickness of lines will tell from where we are getting most profits.
+To get names of relationships on the line itself we can enbale data link label from formatting panel.
+![sankey chart](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/6e128749-d302-4fca-a5f3-80af4029daf9)
+
+
+#### Infographics chart
+In this type of chart you can upload any image instead of normal bars & those images will appears as bars. Also you can format the images as normal.
+![infographic chart](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/ac036f9d-d659-4620-b90d-5cee399e7e2a)
+
+
+#### Play Axis
+This is a dynamic slicer that has play, stop, forward, backward icons just like a video player add a date field into it along with other visual & when click play button the visuals will change as per your date field.
+![play axis](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/282bdc37-cd5a-41fb-825d-773702f6a269)
+
+#### Scroller
+This is to add a scrolling dynamica bar that contains values just like stocks details
+![scroller](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/f1909246-e715-4b7c-8e48-d2c330197af4)
+
+
+#### Sunburst
+![sunburst chart](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/038aeab1-8908-4276-9229-795edc1069fb)
+
+#### Insert an image, textbox, shapes and buttons
+To add an image go to insert -> Image (from elements section). Just like any other things you can format these images. Similarly you can add anything.
+You can also add web URL/page navigation/back button/drill through/bookmark to these things by selecting & editing their action in formatting so that whenever someone clicks he will be redirected.
+Note : To add bookmark you first need to create bookmark from View -> Bookmarks  
+![buttons](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/7f307979-6ad5-483c-9484-3e9ca74fc4f7)  
+![bookmark](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/f2c06212-cc91-4d24-9c5c-a42722043f55)  
+For drill through just select drill through in action of the blank button & select that page on which you want to go.
+![drill through](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/fd4001f2-b543-4831-8a60-29e5d0a15a65)
