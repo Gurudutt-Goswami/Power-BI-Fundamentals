@@ -300,3 +300,35 @@ After that try refreshing data set to load latest data, in case you get any erro
 ![settings](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/a44dc5c8-0c03-414b-9118-8548e2b3a2ac)
 Lastly you can schedule the data set to refresh on a certain time, on pro account you can do this 8 times per day & with premium account you can refresh 48 times per day.
 ![schedule](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/b2ec6d39-57e5-4816-8734-5827b2dfdb86)
+
+
+
+### Power Query 
+Common tool between power bi & excel (data -> new query)
+![power query in excel](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/a4442543-7f86-4164-9a44-92dce5be0166)
+![function](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/90edc7df-4606-47e6-89dd-371fba51372e)
+
+
+#### Text Functions
+1) Merge
+2) Split column & trim (format)
+3) Upper, lower & proper (format)
+4) Prefix & suffix (format)
+5) Left, right & mid (Extract from add column not from tranform)
+6) Extract text with delimeter (Extract from add column)
+
+#### Date Functions
+1) Year, month, quarter, day
+2) Different, earliest & latest
+3) Name of the day/month & then using firstcharacter to 3
+4) Day of month,week & year
+5) Week of month/year
+6) Extract date from date & time
+7) Age
+8) Day of year (Start of yr - DOB), quarter(Start of Qtr - DOB),month your DOB
+
+#### Number Functions
+1) DMAS (standard)
+2) %, percent of, modulo
+3) Rounding the numbers
+4) Even/Odd & Sign
