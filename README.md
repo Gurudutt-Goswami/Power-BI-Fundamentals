@@ -113,3 +113,38 @@ Note : In earlier versions you will conditional formatting options for tables bu
 To make hierarchy just drag & drop fields under rows one below the other & a plus symbol will appear to drill down the values. You can add as many fields as you want. Also lets say you added a date field in values section then in the visual while drill downing you have to first select rows/columns which you want to drill down.  
 Note : You can hide & format subtotal & Total of rows in the matrix .  
 ![hierarchy in matrix](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/63b0980c-e1d0-4006-8465-4054ad355e28)
+
+
+
+### Some Other charts
+
+#### Line Chart
+trend over time  
+![line chart](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/9f06fd2e-adf9-4ff6-b8c1-79af497f1878)
+
+#### Area chart
+![area chart](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/2af9ac6b-da53-446f-a875-dc376e752eca)
+
+#### Line n clustered column chart
+provided side by side comparison  
+![line   clustered column chart](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/a6379ea0-4b26-49c9-bae0-c1997ba07fec)
+
+#### Scatter Plot
+Used to compare two measure relationship.  
+Also this is only chart in power bi which has animation in it.  
+For example lets suppose you wanted to see profits per year of different category items, then you can animate the same, along with lines connecting dots showcasing for all or selected items per year.
+
+#### Line n Stacked chart
+![line   stacked chart](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/eba864fb-0fc6-45db-b24b-41d2d9c0b77b)
+
+#### Waterfall chart
+![waterfall chart](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/0db2afda-a931-48b3-98ac-22185e8700a1)
+
+#### Tree Map
+hierarchical or descending showcase  
+![tree chart](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/788cb0c3-3e91-43ab-9880-15147aebc96b)
+
+
+#### Gauge Chart 
+used to compare current value with target 
+![guage chart](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/7798e177-84d3-4d1b-b2e2-98d1e75ca717)
