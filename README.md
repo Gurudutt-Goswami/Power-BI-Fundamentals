@@ -273,3 +273,30 @@ Share : Once you have commented or shared the report to any person make sure tha
 Subscribe : Lets suppose you have to send report to certain team members on friday 4 pm weekly then you can use subscribe & mention a sample mail along with time on which they should get notified. Here you also need to select which page out of your report they will get. Though you can have multiple subscriptions.
 ![subscribe](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/91583177-bd8d-4120-987c-df783e9d4d01)
 ![subscribe 2](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/c6e8cbb0-ad8e-496b-979c-a30e7189a26b)
+
+
+#### Dashboard 
+You can click on pin icon of any visual inorder to make that visual part of the dashboard. Or you can also create a dashboard from my workspace from scratch.
+Once its done you will get a pop from where you can see the dashboard or from my workspace you can go.
+![dashboard](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/cb540718-8c4f-479c-aacc-553d3020b194)
+See all things (dashboards/workbook/reports/datasets) can be seen from my workspace
+![dashboard 1](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/9700515b-442c-4418-b336-cfe658402e48)
+
+#### Theme
+![dashboard theme](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/26708353-5c97-45dd-950d-20cddf5db7e8)
+
+#### Problem with dashboards
+When you create a dashboard from pinning visuals then on clicking that visuals from dashboard it goes back to its origin so can't filter any visuals on dashboard. So to fix this you can use pin a live page option to convert entire report as a dashboard.
+![pin a live page](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/91091403-f47c-4586-ba17-07862133f820)
+
+#### Automatic Refresh - Data Gateway 
+When you publish a report, a respective data set is also gets published, so now lets suppose you want that power bi service should automatically refresh your data set, then you need to configure data gateway else without configuration if you refresh a dataset in order for your report to load latest data you will get an error like following 
+![error](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/8f82996a-f795-4138-bb65-8ceb8aa2d3db)
+
+You can configure it via gateway connection or right top side option. Note for this to be able to configure you must have admin permissions. Also once it configures it will be shown in gateway configuration.
+![gateway](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/c68f2fa3-d005-4968-b5dc-6aa261067ab8)
+![gateway config](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/d0dac6a9-6eac-4153-b0fe-4df99e7e0bbc)
+After that try refreshing data set to load latest data, in case you get any error check the setting for that data set, may be you have not configured something.
+![settings](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/a44dc5c8-0c03-414b-9118-8548e2b3a2ac)
+Lastly you can schedule the data set to refresh on a certain time, on pro account you can do this 8 times per day & with premium account you can refresh 48 times per day.
+![schedule](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/b2ec6d39-57e5-4816-8734-5827b2dfdb86)
