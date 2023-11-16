@@ -332,3 +332,11 @@ Common tool between power bi & excel (data -> new query)
 2) %, percent of, modulo
 3) Rounding the numbers
 4) Even/Odd & Sign
+
+
+### Appending Files & Tables 
+1) Append multiple csv files
+For this keep all the files in a single folder & load data from that folder, before loading you will get an option to combine them all & combine them & transform if needed. The good part is any change to that folder will be reflected back in power bi desktop after just one refresh & on power bi service we can even schedule it to refresh.
+2) Append data from multiple sheets of an excel
+![append query as new](https://github.com/Gurudutt-Goswami/Power-BI-Fundamentals/assets/86184439/19ff1787-1b86-4140-9d6d-47667d4ffb53)
+3) Append Excel tables with different # of columns
